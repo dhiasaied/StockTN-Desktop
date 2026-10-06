@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "product_id": 7,
+    "product_name": "Chargeur USB-C 65W",
+    "movement_type": "exit",
+    "quantity": 1,
+    "reason": "Vente",
+    "user_id": 2,
+    "username": "vendeur",
+    "date": "2026-10-06 09:51:36",
+    "reference": "Vente #1"
+  }
+]

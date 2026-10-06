@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "items": [
+      {
+        "product_id": 7,
+        "product_code": "PRD-007",
+        "product_name": "Chargeur USB-C 65W",
+        "quantity": 1,
+        "unit_price": 59.0,
+        "total": 59.0
+      }
+    ],
+    "customer_id": null,
+    "customer_name": "Test",
+    "user_id": 2,
+    "username": "vendeur",
+    "date": "2026-10-06 09:51:36",
+    "total": 59.0,
+    "payment_method": "Espèces",
+    "note": ""
+  }
+]

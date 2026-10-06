@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Informatique",
+    "description": "Ordinateurs, composants et périphériques",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Téléphonie",
+    "description": "Smartphones et accessoires mobiles",
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "Électronique",
+    "description": "Appareils électroniques divers",
+    "active": true
+  },
+  {
+    "id": 4,
+    "name": "Accessoires",
+    "description": "Câbles, housses, chargeurs",
+    "active": true
+  },
+  {
+    "id": 5,
+    "name": "Maison",
+    "description": "Équipements pour la maison",
+    "active": true
+  },
+  {
+    "id": 6,
+    "name": "Bureau",
+    "description": "Fournitures de bureau",
+    "active": true
+  },
+  {
+    "id": 7,
+    "name": "Électroménager",
+    "description": "Appareils électroménagers",
+    "active": true
+  }
+]

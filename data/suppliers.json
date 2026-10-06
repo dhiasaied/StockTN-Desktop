@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "TechDistrib Tunisie",
+    "phone": "71 123 456",
+    "email": "contact@techdistrib.tn",
+    "address": "Zone Industrielle Charguia",
+    "city": "Tunis",
+    "governorate": "Tunis",
+    "tax_id": "1234567/A/M/000",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "ElectroPlus",
+    "phone": "74 987 654",
+    "email": "info@electroplus.tn",
+    "address": "Route de Gabès",
+    "city": "Sfax",
+    "governorate": "Sfax",
+    "tax_id": "7654321/B/M/000",
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "Maison & Co",
+    "phone": "73 555 222",
+    "email": "vente@maisonco.tn",
+    "address": "Av. de la République",
+    "city": "Sousse",
+    "governorate": "Sousse",
+    "tax_id": "9988776/C/M/000",
+    "active": true
+  }
+]

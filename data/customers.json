@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "last_name": "Saied",
+    "first_name": "Dhia Eddine",
+    "phone": "92021578",
+    "email": "dhiasaied733@gmail.com",
+    "address": "Nabeul",
+    "city": "Tunisia",
+    "created_at": "2026-10-06 09:51:36",
+    "user_id": 3
+  },
+  {
+    "id": 2,
+    "last_name": "Gharbi",
+    "first_name": "Karim",
+    "phone": "22 456 789",
+    "email": "karim@email.tn",
+    "address": "45 Av. Habib Bourguiba",
+    "city": "Sfax",
+    "created_at": "2026-10-06 09:51:36",
+    "user_id": null
+  },
+  {
+    "id": 3,
+    "last_name": "Jebali",
+    "first_name": "Sarra",
+    "phone": "55 987 321",
+    "email": "sarra@email.tn",
+    "address": "8 Rue Ibn Khaldoun",
+    "city": "Sousse",
+    "created_at": "2026-10-06 09:51:36",
+    "user_id": null
+  }
+]

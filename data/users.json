@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password_hash": "7aBCdaPm9+E+C1jYQzZhoOC9SciHUgEw6kpk9J+w6DAzW5UtrkcWVw6GNlqeOl3U",
+    "role": "admin",
+    "active": true,
+    "first_name": "Admin",
+    "last_name": "StockTN",
+    "email": "admin@stocktn.tn",
+    "phone": "",
+    "customer_id": null
+  },
+  {
+    "id": 2,
+    "username": "vendeur",
+    "password_hash": "hp3Wo3zNjF/J2gfAHSUvMIkaDdP9F7tZUZJnZeu01wnpGKEa5fPKuRMv3En5SrIF",
+    "role": "seller",
+    "active": true,
+    "first_name": "Sami",
+    "last_name": "Ben Ali",
+    "email": "vendeur@stocktn.tn",
+    "phone": "",
+    "customer_id": null
+  },
+  {
+    "id": 3,
+    "username": "client",
+    "password_hash": "AZCMEJ4wo/uTJFHVasC2ogpJvTA8n0igMN/GG5om8Xt8Pz5VlXIgDbt6m7FeZkCa",
+    "role": "client",
+    "active": true,
+    "first_name": "Dhia Eddine",
+    "last_name": "Saied",
+    "email": "dhiasaied733@gmail.com",
+    "phone": "92021578",
+    "customer_id": 1
+  }
+]
